@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu1{
+    height: 800px;
+    background-image: url(../img/decor4.jpg);
+    background-size: cover;
+}
+.footer{
+    height: 50px;
+}

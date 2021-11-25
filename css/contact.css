@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu1{
+    height: 800px;
+    background-image: url(../img/decor3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    height: 50px;
+}
+.sub-conten1{
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 4%;
+    color: black;
+}
+.sub-conten1 h1{
+    font-size: 30px;
+    color: black;
+    text-shadow: 0 55px 30px rgba(0,0,0,0.25);
+}
+.sub-conten1 ul{
+    list-style: none;
+    display: flex;
+}
+.sub-conten1 ul li{
+    padding: 10px;
+    background-color: brown;
+    margin: 0 10px;
+    border-radius: 17%;
+}
+.sub-conten1 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.conten2{
+    height: 500px;
+    background-color: cornflowerblue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.isi-conten{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.isi-conten .isi1{
+    background-color: white;
+    height: 400px;
+    margin: 0 25px;
+    width: 350px;
+    border-radius: 30%;
+    text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+    padding-top: 30px;
+    color: chocolate;
+    
+}
+.isi-conten .isi1 .job1{
+    height: 200px;
+    background-image: url(../img/bagas.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20%;
+}
+.isi-conten .isi2{
+    background-color: white;
+    height: 400px;
+    margin: 0 25px;
+    width: 350px;
+    border-radius: 30%;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url();
+}
+.isi-conten .isi3{
+    background-color: white;
+    height: 400px;
+    margin: 0 25px;
+    width: 350px;
+    border-radius: 30%;
+    text-align: center;
+    padding-top: 30px;
+    color: chocolate;
+    background-size: cover;
+}
+.isi-conten .isi3 .job3{
+    height: 200px;
+    background-image: url(../img/ozi.jpeg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20%;
+}

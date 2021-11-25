@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu1{
+    height: 700px;
+    background-image: url(../img/decor.jpg);
+    background-size: cover;
+}
+.footer{
+    height: 50px;
+}
+.sub-seleksi1{
+position: absolute;
+top: 30%;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+left: 5%;
+
+}
+.sub-seleksi1 h1{
+    font-size: 30px;
+    color: white;
+    text-shadow: 0 55px 30px rgba(0,0,0,0.25);
+}
+.sub-seleksi1 ul{
+    list-style: none;
+    display: flex;
+}
+.sub-seleksi1 ul li{
+    padding: 10px;
+    background-color: chocolate;
+    margin: 0 10px;
+}
+.seleksi2 {
+    height: 800px;
+    background-color: #ddd;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.kontainer-seleksi{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.kontainer-seleksi .kontainer1{
+    background-color: white;
+    height: 500px;
+    margin: 0 15px;
+    width: 350px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+}
+.kontainer-seleksi .kontainer1 .baner1{
+    height: 250px;
+    background-image: url(../img/milenial.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.kontainer-seleksi .kontainer2{
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    margin: 0 15px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+}
+.kontainer-seleksi .kontainer2 .baner2{
+    height: 250px;
+    background-image: url(../img/decor2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.kontainer-seleksi .kontainer3{
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    margin: 0 15px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+}
+.kontainer-seleksi .kontainer3 .baner3{
+    height: 250px;
+    background-image: url(../img/seni.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.seleksi3{
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url(../img/seni.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.kontainer-seleksi3{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.kontainer-seleksi3 .kontainer11{
+    
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: tomato;
+    
+}
+.kontainer-seleksi3 .kontainer11 .icon1{
+    height: 50px;
+    background-position: center;
+    background-size: cover;
+}
+
+.sub-seleksi1 ul li{
+    padding: 10px;
+    background-color: #fb5607;
+    margin: 0 10px;
+}
+.sub-seleksi1 ul li a{
+    text-decoration: none;
+    color: white;
+}
